@@ -44,11 +44,14 @@
 
 ### 🤝 Open-source Contributions
 
-Contributing audio-modality integrations to the **vLLM** ecosystem:
+Where I contribute upstream:
 
 <p>
   <a href="https://github.com/vllm-project" title="vllm-project">
     <img src="https://github.com/vllm-project.png" width="48" height="48" style="border-radius:10px"/>
+  </a>
+  <a href="https://github.com/NousResearch/hermes-agent" title="hermes-agent · NousResearch">
+    <img src="https://github.com/NousResearch.png" width="48" height="48" style="border-radius:10px"/>
   </a>
 </p>
 
