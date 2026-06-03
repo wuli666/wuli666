@@ -1,33 +1,63 @@
 <h1 align="center">Hi, I'm wuli666 👋</h1>
 
-<!-- EDIT: 这句一行自我介绍，按你自己的话改 -->
 <p align="center">
-  LLM inference &amp; quantization · agent systems · dabbling in agent RL<br/>
-  <em>now digging deeper into infra</em> 🛠️
+  Building in the <b>LLM serving</b> &amp; <b>agent</b> space — inference, quantization, and a bit of agent RL.<br/>
+  <em>vLLM / SGLang ecosystem · now heading deeper into infra</em> 🛠️
 </p>
 
 <p align="center">
-  <a href="https://github.com/wuli666?tab=repositories">
-    <img src="https://img.shields.io/badge/Open_Source-tokyonight-7aa2f7?style=flat-square" alt="oss"/>
+  <img src="https://komarev.com/ghpvc/?username=wuli666&style=flat-square&color=7aa2f7&label=profile+views" alt="views"/>
+  <a href="https://github.com/wuli666?tab=followers">
+    <img src="https://img.shields.io/github/followers/wuli666?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27&label=followers" alt="followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=wuli666&style=flat-square&color=7aa2f7" alt="profile views"/>
 </p>
 
 ---
 
 ### 🧰 Stack &amp; Focus
 
-<!-- EDIT: 不想要的 badge 删掉、想加的照着格式抄一行 -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/vLLM-1a1b27?style=flat-square&logo=v&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/SGLang-1a1b27?style=flat-square&logoColor=7dcfff"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/RKNN%20%2F%20Rockchip-bb9af7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=FCC624"/>
 </p>
+
+> FP8 / INT8 quantization · efficient inference &amp; serving · multi-agent systems · RLVR for small models
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is |
+| :-- | :-- |
+| [**langextract-vllm**](https://github.com/wuli666/langextract-vllm) ![](https://img.shields.io/github/stars/wuli666/langextract-vllm?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | A **vLLM provider plugin for LangExtract** — run structured extraction on a local vLLM backend |
+| [**claude-code-architecture**](https://github.com/wuli666/claude-code-architecture) ![](https://img.shields.io/github/stars/wuli666/claude-code-architecture?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | Deep **reverse-engineering of the Claude Code CLI** (v2.1.88) internals from sourcemaps |
+| [**mobileground-r1**](https://github.com/wuli666/mobileground-r1) ![](https://img.shields.io/github/stars/wuli666/mobileground-r1?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | A small-VLM **phone-GUI grounding agent**, trained with **RLVR (GRPO)** |
+| [**vantage**](https://github.com/wuli666/vantage) ![](https://img.shields.io/github/stars/wuli666/vantage?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | **AI Job Decision Copilot** — scan, score, advise, decide |
+
+---
+
+### 🤝 Open-source Contributions
+
+Working across the high-performance **LLM serving** ecosystem:
+
+<p>
+  <a href="https://github.com/vllm-project" title="vllm-project">
+    <img src="https://github.com/vllm-project.png" width="48" height="48" style="border-radius:10px"/>
+  </a>
+  <a href="https://github.com/sgl-project" title="sgl-project">
+    <img src="https://github.com/sgl-project.png" width="48" height="48" style="border-radius:10px"/>
+  </a>
+</p>
+
+- [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) — added **FP8 quantization for Qwen-Omni** (thinker LM)
+- Hacking on omni-modality serving across the **vLLM / SGLang** stack
 
 ---
 
@@ -37,22 +67,4 @@
 
 ---
 
-### 🚧 What I'm building
-
-<!-- EDIT: 项目和描述按你的实际情况改/删 -->
-- **[mobileground-r1](https://github.com/wuli666/mobileground-r1)** — 小 VLM 手机 GUI grounding agent，RLVR (GRPO) + rLLM
-- **doc-agent-infer** — agent 架构 / RL / 推理系统的结构化知识库
-- An event-sourced **code-agent harness** — 从轨迹脊椎到投机 tool-use 到 RL
-
----
-
-### 🤝 Communities &amp; Contributions
-
-<!-- EDIT: 你真正贡献过/想展示的 org，多个就并排加几个 a -->
-<p>
-  <a href="https://github.com/vllm-project" title="vllm-project — Qwen-Omni FP8 quantization">
-    <img src="https://github.com/vllm-project.png" width="56" height="56" style="border-radius:12px"/>
-  </a>
-</p>
-
-<sub>📫 421774554@qq.com</sub>
+<p align="center"><sub>📫 421774554@qq.com</sub></p>
