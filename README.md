@@ -37,15 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wuli666&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" alt="stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuli666&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="top langs"/>
-</p>
-
----
-
 ### 📈 Activity
 
 [![wuli666's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuli666&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area_color=bb9af7)](https://github.com/wuli666)
