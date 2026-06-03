@@ -2,7 +2,7 @@
 
 <p align="center">
   Building in the <b>LLM serving</b> &amp; <b>agent</b> space — inference, quantization, and a bit of agent RL.<br/>
-  <em>vLLM / SGLang ecosystem · now heading deeper into infra</em> 🛠️
+  <em>vLLM ecosystem · now heading deeper into infra</em> 🛠️
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/vLLM-1a1b27?style=flat-square&logo=v&logoColor=7aa2f7"/>
-  <img src="https://img.shields.io/badge/SGLang-1a1b27?style=flat-square&logoColor=7dcfff"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/RKNN%20%2F%20Rockchip-bb9af7?style=flat-square"/>
@@ -45,19 +44,16 @@
 
 ### 🤝 Open-source Contributions
 
-Working across the high-performance **LLM serving** ecosystem:
+Contributing audio-modality integrations to the **vLLM** ecosystem:
 
 <p>
   <a href="https://github.com/vllm-project" title="vllm-project">
     <img src="https://github.com/vllm-project.png" width="48" height="48" style="border-radius:10px"/>
   </a>
-  <a href="https://github.com/sgl-project" title="sgl-project">
-    <img src="https://github.com/sgl-project.png" width="48" height="48" style="border-radius:10px"/>
-  </a>
 </p>
 
-- [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) — added **FP8 quantization for Qwen-Omni** (thinker LM)
-- Hacking on omni-modality serving across the **vLLM / SGLang** stack
+- [**Step-Audio2**](https://github.com/vllm-project/vllm-omni) integration into the vLLM-Omni serving stack
+- [**Stable Audio 3**](https://github.com/vllm-project/vllm-omni) integration into the vLLM-Omni serving stack
 
 ---
 
