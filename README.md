@@ -1,9 +1,3 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  wuli666 / GitHub Profile README                             ║
-     ║  Theme: tokyonight  |  Modules: Activity Graph + Stats       ║
-     ║  改的时候只动 <!-- EDIT --> 标记的地方就行                     ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
 <h1 align="center">Hi, I'm wuli666 👋</h1>
 
 <!-- EDIT: 这句一行自我介绍，按你自己的话改 -->
@@ -40,7 +34,6 @@
 ### 📈 Activity
 
 [![wuli666's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuli666&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area_color=bb9af7)](https://github.com/wuli666)
-<!-- 图有缓存，刚改完想强刷就在上面链接末尾加 &v=2 -->
 
 ---
 
@@ -55,14 +48,11 @@
 
 ### 🤝 Communities &amp; Contributions
 
-<!-- EDIT: 你真正贡献过/想展示的 org，多个就并排加几个 <a> -->
+<!-- EDIT: 你真正贡献过/想展示的 org，多个就并排加几个 a -->
 <p>
   <a href="https://github.com/vllm-project" title="vllm-project — Qwen-Omni FP8 quantization">
     <img src="https://github.com/vllm-project.png" width="56" height="56" style="border-radius:12px"/>
   </a>
-  <!-- 例：再加一个
-  <a href="https://github.com/某org"><img src="https://github.com/某org.png" width="56" height="56"/></a>
-  -->
 </p>
 
 <sub>📫 421774554@qq.com</sub>
