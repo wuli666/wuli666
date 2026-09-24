@@ -1,69 +1,42 @@
-<h1 align="center">Hi, I'm wuli666 👋</h1>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&animation=twinkling&height=150&text=wuli666&fontSize=46&fontAlignY=40&desc=LLM%20serving%20%C2%B7%20omni%20models%20%C2%B7%20infra&descAlignY=68&descSize=16&color=0:1a1b27,100:3d59a1&fontColor=ffffff"/><img src="https://capsule-render.vercel.app/api?type=soft&animation=twinkling&height=150&text=wuli666&fontSize=46&fontAlignY=40&desc=LLM%20serving%20%C2%B7%20omni%20models%20%C2%B7%20infra&descAlignY=68&descSize=16&color=0:e6ebfc,100:a9b8f5&fontColor=1a1b27" width="100%" alt="wuli666"/></picture>
+
+<p align="center"><i>Just hoping to be seen.</i></p>
 
 <p align="center">
-  Building in the <b>LLM serving</b> &amp; <b>agent</b> space — inference, quantization, and a bit of agent RL.<br/>
-  <em>vLLM ecosystem · now heading deeper into infra</em> 🛠️
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Bringing+audio+models+into+vLLM-Omni;FP8+%2F+INT8+quantization;Going+deeper+into+inference+infra" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wuli666&style=flat-square&color=7aa2f7&label=profile+views" alt="views"/>
-  <a href="https://github.com/wuli666?tab=followers">
-    <img src="https://img.shields.io/github/followers/wuli666?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27&label=followers" alt="followers"/>
-  </a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"/><img src="https://skillicons.dev/icons?i=python&theme=light" width="48" alt="python"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark"/><img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="48" alt="pytorch"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cuda.svg"/><img src="assets/cuda-light.svg" width="48" alt="cuda"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/triton.svg"/><img src="assets/triton-light.svg" width="48" alt="triton"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/vllm.svg"/><img src="assets/vllm-light.svg" width="48" alt="vllm"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/onnx.svg"/><img src="assets/onnx-light.svg" width="48" alt="onnx"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rknn.svg"/><img src="assets/rknn-light.svg" width="48" alt="rknn"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"/><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="48" alt="cpp"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"/><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="linux"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"/><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" alt="docker"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"/><img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" alt="ts"/></picture>
 </p>
 
----
+### 🚀 Contributing to
 
-### 🧰 Stack &amp; Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vLLM-1a1b27?style=flat-square&logo=v&logoColor=7aa2f7"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RKNN%20%2F%20Rockchip-bb9af7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=FCC624"/>
+<p align="center">
+  <a href="https://github.com/vllm-project/vllm-omni/pulls?q=is%3Apr+author%3Awuli666+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/vllm-omni.svg"/><img src="assets/cards/vllm-omni-light.svg" width="49%" alt="vllm-omni"/></picture></a>
+  <a href="https://github.com/vllm-project/semantic-router/pulls?q=is%3Apr+author%3Awuli666+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/semantic-router.svg"/><img src="assets/cards/semantic-router-light.svg" width="49%" alt="semantic-router"/></picture></a>
+  <a href="https://github.com/google/langextract/pulls?q=is%3Apr+author%3Awuli666+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/langextract.svg"/><img src="assets/cards/langextract-light.svg" width="49%" alt="langextract"/></picture></a>
+  <a href="https://github.com/NousResearch/hermes-agent/commits?author=wuli666"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/hermes-agent.svg"/><img src="assets/cards/hermes-agent-light.svg" width="49%" alt="hermes-agent"/></picture></a>
 </p>
 
-> FP8 / INT8 quantization · efficient inference &amp; serving · multi-agent systems · RLVR for small models
+### 📊 Stats
 
----
-
-### 🚀 Featured Projects
-
-| Project | What it is |
-| :-- | :-- |
-| [**langextract-vllm**](https://github.com/wuli666/langextract-vllm) ![](https://img.shields.io/github/stars/wuli666/langextract-vllm?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | A **vLLM provider plugin for LangExtract** — run structured extraction on a local vLLM backend |
-| [**claude-code-architecture**](https://github.com/wuli666/claude-code-architecture) ![](https://img.shields.io/github/stars/wuli666/claude-code-architecture?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | Deep **reverse-engineering of the Claude Code CLI** (v2.1.88) internals from sourcemaps |
-| [**mobileground-r1**](https://github.com/wuli666/mobileground-r1) ![](https://img.shields.io/github/stars/wuli666/mobileground-r1?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | A small-VLM **phone-GUI grounding agent**, trained with **RLVR (GRPO)** |
-| [**vantage**](https://github.com/wuli666/vantage) ![](https://img.shields.io/github/stars/wuli666/vantage?style=flat-square&logo=github&color=bb9af7&labelColor=1a1b27) | **AI Job Decision Copilot** — scan, score, advise, decide |
-
----
-
-### 🤝 Open-source Contributions
-
-Where I contribute upstream:
-
-<p>
-  <a href="https://github.com/vllm-project" title="vllm-project">
-    <img src="https://github.com/vllm-project.png" width="48" height="48" style="border-radius:10px"/>
-  </a>
-  <a href="https://github.com/NousResearch/hermes-agent" title="hermes-agent · NousResearch">
-    <img src="https://github.com/NousResearch.png" width="48" height="48" style="border-radius:10px"/>
-  </a>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuli666&theme=tokyonight"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuli666&theme=github" width="100%" alt="profile details"/></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wuli666&theme=tokyonight"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wuli666&theme=github" height="165" alt="stats"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wuli666&utcOffset=8&theme=tokyonight"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wuli666&utcOffset=8&theme=github" height="165" alt="productive time"/></picture>
 </p>
 
-- [**Step-Audio2**](https://github.com/vllm-project/vllm-omni) integration into the vLLM-Omni serving stack
-- [**Stable Audio 3**](https://github.com/vllm-project/vllm-omni) integration into the vLLM-Omni serving stack
-
----
-
-### 📈 Activity
-
-[![wuli666's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuli666&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area_color=bb9af7)](https://github.com/wuli666)
-
----
-
-<p align="center"><sub>📫 421774554@qq.com</sub></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuli666/wuli666/output/snake-dark.svg"/><img src="https://raw.githubusercontent.com/wuli666/wuli666/output/snake.svg" width="100%" alt="contribution snake"/></picture>
