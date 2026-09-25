@@ -11,7 +11,7 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
 <rect x="0.5" y="16" width="4" height="96" rx="2" fill="#ff9e64"/>
 <text x="24" y="30" class="org">NousResearch</text>
 <text x="24" y="54" class="name">hermes-agent</text>
-<text x="396" y="30" class="meta" text-anchor="end">★ 248.5k</text>
+<text x="396" y="30" class="meta" text-anchor="end">★ 248.8k</text>
 <text x="24" y="74" class="blurb">The agent that grows with you</text>
 <rect x="24" y="86" width="106" height="22" rx="11" fill="#ff9e64" fill-opacity="0.16"/><text x="77" y="101" class="chip" fill="#ff9e64">Feishu voice</text><rect x="138.4" y="86" width="63" height="22" rx="11" fill="#ff9e64" fill-opacity="0.16"/><text x="170" y="101" class="chip" fill="#ff9e64">Kanban</text><rect x="209.60000000000002" y="86" width="92" height="22" rx="11" fill="#ff9e64" fill-opacity="0.16"/><text x="256" y="101" class="chip" fill="#ff9e64">Aux client</text>
 </g>
