@@ -11,7 +11,7 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
 <rect x="0.5" y="16" width="4" height="96" rx="2" fill="#9ece6a"/>
 <text x="24" y="30" class="org">google</text>
 <text x="24" y="54" class="name">langextract</text>
-<text x="396" y="30" class="meta" text-anchor="end">★ 38.8k</text>
+<text x="396" y="30" class="meta" text-anchor="end">★ 38.9k</text>
 <text x="24" y="74" class="blurb">Structured extraction with LLMs</text>
 <rect x="24" y="86" width="114" height="22" rx="11" fill="#9ece6a" fill-opacity="0.16"/><text x="81" y="101" class="chip" fill="#9ece6a">vLLM provider</text>
 </g>
