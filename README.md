@@ -3,6 +3,10 @@
 <p align="center"><i>Just hoping to be seen.</i></p>
 
 <p align="center">
+  <a href="https://wuli666.github.io"><img src="https://img.shields.io/badge/website-wuli666.github.io-7AA2F7?style=flat-square" alt="wuli666.github.io"/></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Bringing+audio+models+into+vLLM-Omni;FP8+%2F+INT8+quantization;Going+deeper+into+inference+infra" alt="typing"/>
 </p>
 
